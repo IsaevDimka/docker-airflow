@@ -7,4 +7,9 @@ logs/
 config/
 plugins/
 
-etc/nginx/ssl/
+.venv/
+
+__pycache__/
+.ruff_cache/
+.mypy_cache/
+.pytest_cache/
