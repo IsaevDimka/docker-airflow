@@ -1,0 +1,10 @@
+.idea/
+.vscode/
+.fleet/
+
+volumes/
+logs/
+config/
+plugins/
+
+etc/nginx/ssl/
